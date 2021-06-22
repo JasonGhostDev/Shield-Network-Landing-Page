@@ -134,7 +134,9 @@ const Landing = () => {
                                        <p className="bold price-header"><h3 className="text-warning">Guardian Launch</h3></p>
                                        <p className="bold price-header"><h2 className="text-warning">Tier 1</h2></p>
                                     </div>
-                                    <hr />
+                                    <div className="col-12">
+                                       <hr />
+                                    </div>
                                     <div className="col-12">
                                        <p className="light thin mb-0">All token projects launched in Tier 1 are guaranteed by Shield to be 100% safe.</p><br/>
                                     </div>
@@ -153,8 +155,12 @@ const Landing = () => {
                                     <div className="col-12">
                                        <p className="light thin mb-0">Tier 1 projects will only be accessible to new investors who hold a minimum (to be determined closer to launch) number of Shield Network tokens.</p><br/>
                                     </div>
-                                  
-                                    <hr />
+                                    <div className="col-12">
+                                       <p className="light thin mb-0"></p><br/>
+                                    </div>
+                                    <div className="col-12">
+                                       <hr />
+                                    </div>
                                     <div className="col-12"><a href="https://www.google.com/" target="blank" className="btn btn-primary btn-lg">Learn more</a></div>
                                  </Row>
                               </div>
@@ -166,7 +172,9 @@ const Landing = () => {
                                        <p className="bold price-header"><h3 className="text-warning">Audited Launch</h3></p>
                                        <p className="bold price-header"><h2 className="text-warning">Tier 2</h2></p>
                                     </div>
-                                    <hr />
+                                    <div className="col-12">
+                                       <hr />
+                                    </div>
                                     <div className="col-12">
                                         <p className="light thin mb-0">All token projects launched in Tier 2 are meticulously and methodically audited by Shield.</p><br/>
                                     </div>
@@ -193,7 +201,9 @@ const Landing = () => {
                                      <div className="col-12">
                                        <p className="light thin mb-0"></p><br/>
                                     </div>
-                                    <hr />
+                                    <div className="col-12">
+                                       <hr />
+                                    </div>
                                     <div className="col-12"><a href="https://www.google.com/" target="blank" className="btn btn-primary btn-lg">Learn more</a></div>
                                  </Row>
                               </div>
@@ -205,7 +215,9 @@ const Landing = () => {
                                        <p className="bold price-header"><h3 className="text-warning">Decentralized Launch</h3></p>
                                        <p className="bold price-header"><h2 className="text-warning">Tier 3</h2></p>
                                     </div>
-                                    <hr />
+                                    <div className="col-12">
+                                       <hr />
+                                    </div>
                                     <div className="col-12">
                                        <p className="light thin mb-0">All token projects launched in Tier 3 are completely decentralized. Shield recommends that potential investors do their own research before investing.</p><br/>
                                     </div>
@@ -234,12 +246,8 @@ const Landing = () => {
                                        <p className="light thin mb-0"></p><br/>
                                     </div>
                                     <div className="col-12">
-                                       <p className="light thin mb-0"></p><br/>
+                                       <hr />
                                     </div>
-                                    <div className="col-12">
-                                       <p className="light thin mb-0"></p><br/>
-                                    </div>
-                                    <hr />
                                     <div className="col-12"><a href="https://www.google.com/" target="blank" className="btn btn-primary btn-lg">Learn more</a></div>
                                  </Row>
                               </div>
